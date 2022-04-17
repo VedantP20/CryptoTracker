@@ -1,2 +1,6 @@
 # CryptoTracker
-To track Cryptocurrencies and update it after every 24hrs 
+To track Cryptocurrencies 
+Responsive Website
+Automatic price update in 30 sec
+Convert UNIX Time to Standard Time
+Can Track incoming traffic
